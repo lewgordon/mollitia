@@ -9,7 +9,7 @@ When everything is falling apart, it stops the classic flow and uses modules to 
 ## Documentation
 
 <!-- TODO Change -->
-[Full documentation website can be find here.](http://135.39.45.156:8080)
+[Full documentation website can be find here.](https://genesys.github.io/mollitia/)
 
 ## Installation
 
